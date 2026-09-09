@@ -1,0 +1,17 @@
+{
+  "name": "Renew Exterior Cleaning",
+  "short_name": "Renew",
+  "description": "Professional pressure washing and soft washing in Jacksonville, Florida.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b5c8a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
